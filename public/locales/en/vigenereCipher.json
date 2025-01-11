@@ -26,7 +26,7 @@
   "next": "Next",
   "reset": "Reset",
   "findIntersection": "Find the intersection of row {{key}} and column {{plain}} to get {{cipher}}",
-  "encryptedText": "Encrypted text",
+
   "explanation": "Explanation",
   "explanationStep": "For plaintext letter '{{plain}}' (column {{col}}) and key letter '{{key}}' (row {{row}}), we look at the intersection in the Vigenère square to find the ciphertext letter '{{cipher}}'. The key letter is at position {{keyIndex}} in the repeated key.",
   "keyRepetition": "Key Repetition",
@@ -35,6 +35,7 @@
   "play": "Play",
   "pause": "Pause",
   "speed": "Speed",
+  "encryptedText": "Encrypted text",
   "decryptedText": "Decrypted text",
   "explanationNonAlpha": "This character is not a letter, so it remains unchanged.",
   "explanationStepEncrypt": "For plaintext letter '{{text}}' (column {{col}}) and key letter '{{key}}' (row {{row}}), we look at the intersection in the Vigenère square to find the ciphertext letter '{{result}}'. The key letter is at position {{keyIndex}} in the repeated key.",

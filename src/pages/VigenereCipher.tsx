@@ -212,7 +212,7 @@ const VigenereCipher: React.FC = () => {
             <h3 className="font-bold mb-2">{t("visualization")}</h3>
             {visualization.length > 0 ? (
               <>
-                <Visualization visualization={visualization} currentStepIndex={currentStep} explanation={explanation} resultText={resultText} isDecrypting={!!setIsDecrypting} />
+                <Visualization visualization={visualization} currentStepIndex={currentStep} explanation={explanation} resultText={resultText} isDecrypting={!!isDecrypting} />
                 <div className="flex flex-wrap items-center space-y-6">
                   <div className="w-full flex place-items-center gap-4">
                     <Button onClick={handleTogglePlay}>{isPlaying ? t("pause") : t("play")}</Button>
