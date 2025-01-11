@@ -1,0 +1,23 @@
+{
+  "title": "Szyfr Cezara",
+  "quickDescription": "Poznaj szyfr Cezara, prosty szyfr podstawieniowy.",
+  "whatIs": "Czym jest Szyfr Cezara?",
+  "description": "Szyfr Cezara jest jedną z najprostszych i najbardziej znanych technik szyfrowania. Jest to rodzaj szyfru podstawieniowego, w którym każda litera w tekście jawnym jest zastępowana przez literę znajdującą się o określoną liczbę pozycji dalej w alfabecie.",
+  "example": "Na przykład, przy przesunięciu w lewo o 3, D zostałoby zastąpione przez A, E stałoby się B, i tak dalej.",
+  "tryIt": "Wypróbuj sam",
+  "tryItDescription": "Eksperymentuj z szyfrem Cezara, wpisując swój tekst i dostosowując wartość przesunięcia.",
+  "plaintext": "Tekst jawny",
+  "plaintextPlaceholder": "Wpisz tutaj swoją wiadomość",
+  "shift": "Przesunięcie",
+  "ciphertext": "Szyfrogram",
+  "ciphertextPlaceholder": "Wpisz tutaj swoją zaszyfrowaną wiadomość",
+  "shiftVisualization": "Wizualizacja przesunięcia",
+  "howItWorks": "Jak to działa",
+  "encryptionExplanation": "Aby zaszyfrować, każda litera w tekście jawnym jest przesuwana o określoną liczbę miejsc w dół alfabetu. Na przykład, przy przesunięciu o 3, 'A' stałoby się 'D', 'B' stałoby się 'E', i tak dalej.",
+  "decryptionExplanation": "Aby odszyfrować, stosuje się odwrotny proces. Każda litera w szyfrogramie jest przesuwana z powrotem w górę alfabetu o tę samą liczbę miejsc. Przy przesunięciu o 3, 'D' stałoby się 'A', 'E' stałoby się 'B', i tak dalej.",
+  "historicalContext": "Kontekst historyczny",
+  "history": "Szyfr Cezara nosi imię Juliusza Cezara, który podobno używał go do komunikacji ze swoimi generałami. Jest to jedna z najstarszych i najprostszych form szyfrowania wiadomości.",
+  "modernUse": "Chociaż szyfr Cezara nie jest już uważany za bezpieczny do poważnych celów, często jest używany jako wprowadzenie do koncepcji szyfrowania i deszyfrowania w kursach informatyki i kryptografii.",
+  "encrypt": "Szyfruj",
+  "decrypt": "Odszyfruj"
+}

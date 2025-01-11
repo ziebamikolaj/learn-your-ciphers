@@ -1,0 +1,93 @@
+{
+  "title": "Słownik Kryptograficzny",
+  "description": "Poznaj kluczowe terminy i koncepcje ze świata kryptografii.",
+  "searchPlaceholder": "Szukaj terminów...",
+  "noResults": "Nie znaleziono pasujących terminów.",
+  "glossaryTitle": "Terminy Kryptograficzne",
+  "terms": {
+    "cipher": {
+      "term": "Szyfr",
+      "definition": "Metoda szyfrowania lub maskowania tekstu w celu ukrycia jego prawdziwego znaczenia."
+    },
+    "plaintext": {
+      "term": "Tekst jawny",
+      "definition": "Oryginalna, niezaszyfrowana wiadomość lub dane."
+    },
+    "ciphertext": {
+      "term": "Szyfrogram",
+      "definition": "Zaszyfrowana wersja tekstu jawnego, która wydaje się pomieszana lub pozbawiona sensu."
+    },
+    "encryption": {
+      "term": "Szyfrowanie",
+      "definition": "Proces przekształcania tekstu jawnego w szyfrogram przy użyciu określonego algorytmu i klucza."
+    },
+    "decryption": {
+      "term": "Deszyfrowanie",
+      "definition": "Proces przekształcania szyfrogramu z powrotem w tekst jawny przy użyciu odpowiedniego klucza i algorytmu."
+    },
+    "key": {
+      "term": "Klucz",
+      "definition": "Informacja używana w połączeniu z algorytmem do szyfrowania lub deszyfrowania wiadomości."
+    },
+    "cryptography": {
+      "term": "Kryptografia",
+      "definition": "Praktyka i nauka o technikach bezpiecznej komunikacji w obecności przeciwników."
+    },
+    "cryptanalysis": {
+      "term": "Kryptoanaliza",
+      "definition": "Badanie metod uzyskiwania znaczenia zaszyfrowanych informacji bez dostępu do klucza."
+    },
+    "substitutionCipher": {
+      "term": "Szyfr podstawieniowy",
+      "definition": "Metoda szyfrowania, w której jednostki tekstu jawnego są zastępowane szyfrogramem zgodnie z ustalonym systemem."
+    },
+    "transpositionCipher": {
+      "term": "Szyfr przestawieniowy",
+      "definition": "Metoda szyfrowania, w której pozycje jednostek tekstu jawnego są przesuwane zgodnie z regularnym systemem."
+    },
+    "caesarCipher": {
+      "term": "Szyfr Cezara",
+      "definition": "Prosty szyfr podstawieniowy, w którym każda litera w tekście jawnym jest przesuwana o określoną liczbę miejsc w alfabecie."
+    },
+    "vigenereCipher": {
+      "term": "Szyfr Vigenère'a",
+      "definition": "Polialfabetyczny szyfr podstawieniowy, który używa słowa kluczowego do przesuwania liter w tekście jawnym."
+    },
+    "playfairCipher": {
+      "term": "Szyfr Playfaira",
+      "definition": "Ręczna technika szyfrowania symetrycznego, która wykorzystuje siatkę 5x5 liter do szyfrowania par liter."
+    },
+    "railFenceCipher": {
+      "term": "Szyfr Płotkowy",
+      "definition": "Szyfr przestawieniowy, który zapisuje tekst jawny w zygzakowaty wzór na określonej liczbie 'szyn', a następnie odczytuje szyfrogram wiersz po wierszu."
+    },
+    "symmetricEncryption": {
+      "term": "Szyfrowanie symetryczne",
+      "definition": "Rodzaj szyfrowania, w którym ten sam klucz jest używany zarówno do szyfrowania, jak i deszyfrowania."
+    },
+    "asymmetricEncryption": {
+      "term": "Szyfrowanie asymetryczne",
+      "definition": "Rodzaj szyfrowania, który używa dwóch różnych kluczy: klucza publicznego do szyfrowania i klucza prywatnego do deszyfrowania."
+    },
+    "publicKey": {
+      "term": "Klucz publiczny",
+      "definition": "W szyfrowaniu asymetrycznym, klucz, który może być swobodnie udostępniany i jest używany do szyfrowania."
+    },
+    "privateKey": {
+      "term": "Klucz prywatny",
+      "definition": "W szyfrowaniu asymetrycznym, klucz, który jest utrzymywany w tajemnicy i jest używany do deszyfrowania."
+    },
+    "algorithm": {
+      "term": "Algorytm",
+      "definition": "Krok po kroku procedura wykonywania określonego zadania, takiego jak szyfrowanie lub deszyfrowanie."
+    },
+    "cryptosystem": {
+      "term": "Kryptosystem",
+      "definition": "Kompletny zestaw algorytmów, protokołów, kluczy i procesów używanych do szyfrowania i deszyfrowania."
+    },
+    "steganography": {
+      "term": "Steganografia",
+      "definition": "Praktyka ukrywania wiadomości w innej wiadomości lub obiekcie fizycznym."
+    }
+  }
+}

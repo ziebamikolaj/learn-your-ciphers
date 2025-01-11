@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Odkryj Tajemnice Kryptografii",
+    "description": "Zanurz się w fascynujący świat szyfrów i naucz się szyfrować i deszyfrować wiadomości jak profesjonalista.",
+    "buttons": {
+      "caesar": "Wypróbuj Szyfr Cezara",
+      "vigenere": "Odkryj Szyfr Vigenère'a",
+      "playfair": "Szyfr Playfair",
+      "railfence": "Szyfr Płotkowy",
+      "glossary": "Słownik Kryptograficzny"
+    }
+  },
+  "features": {
+    "interactive": {
+      "title": "Interaktywna Nauka",
+      "description": "Korzystaj z naszych interaktywnych narzędzi szyfrujących, aby zobaczyć szyfrowanie i deszyfrowanie w akcji."
+    },
+    "explanations": {
+      "title": "Szczegółowe Wyjaśnienia",
+      "description": "Zrozum mechanizmy działania każdego szyfru dzięki jasnym i zwięzłym objaśnieniom."
+    }
+  }
+}
