@@ -1,0 +1,14 @@
+{
+  "appName": "Learn Your Ciphers",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "navigation": {
+    "home": "Home",
+    "ciphers": "Ciphers",
+    "caesarCipher": "Caesar Cipher",
+    "vigenereCipher": "Vigenère Cipher",
+    "glossary": "Glossary",
+    "playfairCipher": "Playfair Cipher",
+    "railFenceCipher": "Rail Fence Cipher"
+  }
+}

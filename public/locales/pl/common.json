@@ -1,0 +1,14 @@
+{
+  "appName": "Poznaj Swoje Szyfry",
+  "loading": "Ładowanie...",
+  "error": "Wystąpił błąd",
+  "navigation": {
+    "home": "Strona główna",
+    "ciphers": "Szyfry",
+    "caesarCipher": "Szyfr Cezara",
+    "vigenereCipher": "Szyfr Vigenère'a",
+    "playfairCipher": "Szyfr Playfair",
+    "railFenceCipher": "Szyfr Płotkowy",
+    "glossary": "Słownik"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Unlock the Secrets of Cryptography",
+    "description": "Dive into the fascinating world of ciphers and learn how to encrypt and decrypt messages like a pro.",
+    "buttons": {
+      "caesar": "Try Caesar Cipher",
+      "vigenere": "Explore Vigenère Cipher",
+      "playfair": "Playfair Cipher",
+      "railfence": "Rail Fence Cipher",
+      "glossary": "Cryptography Glossary"
+    }
+  },
+  "features": {
+    "interactive": {
+      "title": "Interactive Learning",
+      "description": "Engage with our interactive cipher tools to see encryption and decryption in action."
+    },
+    "explanations": {
+      "title": "In-Depth Explanations",
+      "description": "Understand the mechanics behind each cipher with clear, concise explanations."
+    }
+  }
+}

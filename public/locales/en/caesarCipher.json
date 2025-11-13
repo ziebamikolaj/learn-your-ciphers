@@ -1,0 +1,23 @@
+{
+  "title": "Caesar Cipher",
+  "quickDescription": "Explore the Caesar cipher, a simple substitution cipher.",
+  "whatIs": "What is the Caesar Cipher?",
+  "description": "The Caesar cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.",
+  "example": "For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.",
+  "tryIt": "Try It Yourself",
+  "tryItDescription": "Experiment with the Caesar cipher by entering your text and adjusting the shift value.",
+  "plaintext": "Plaintext",
+  "plaintextPlaceholder": "Enter your message here",
+  "shift": "Shift",
+  "ciphertext": "Ciphertext",
+  "ciphertextPlaceholder": "Enter your encrypted message here",
+  "shiftVisualization": "Shift Visualization",
+  "howItWorks": "How It Works",
+  "encryptionExplanation": "To encrypt, each letter in the plaintext is shifted a certain number of places down the alphabet. For example, with a shift of 3, 'A' would become 'D', 'B' would become 'E', and so on.",
+  "decryptionExplanation": "To decrypt, the reverse process is applied. Each letter in the ciphertext is shifted back up the alphabet by the same number of places. With a shift of 3, 'D' would become 'A', 'E' would become 'B', and so on.",
+  "historicalContext": "Historical Context",
+  "history": "The Caesar cipher is named after Julius Caesar, who reportedly used it to communicate with his generals. It's one of the oldest and simplest forms of encrypting a message.",
+  "modernUse": "While the Caesar cipher is no longer considered secure for serious purposes, it's often used as an introduction to the concepts of encryption and decryption in computer science and cryptography courses.",
+  "encrypt": "Encrypt",
+  "decrypt": "Decrypt"
+}

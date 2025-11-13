@@ -1,0 +1,93 @@
+{
+  "title": "Cryptography Glossary",
+  "description": "Explore key terms and concepts in the world of cryptography.",
+  "searchPlaceholder": "Search terms...",
+  "noResults": "No matching terms found.",
+  "glossaryTitle": "Cryptography Terms",
+  "terms": {
+    "cipher": {
+      "term": "Cipher",
+      "definition": "A method of encrypting or disguising text to hide its true meaning."
+    },
+    "plaintext": {
+      "term": "Plaintext",
+      "definition": "The original, unencrypted message or data."
+    },
+    "ciphertext": {
+      "term": "Ciphertext",
+      "definition": "The encrypted version of the plaintext, which appears scrambled or meaningless."
+    },
+    "encryption": {
+      "term": "Encryption",
+      "definition": "The process of converting plaintext into ciphertext using a specific algorithm and key."
+    },
+    "decryption": {
+      "term": "Decryption",
+      "definition": "The process of converting ciphertext back into plaintext using the appropriate key and algorithm."
+    },
+    "key": {
+      "term": "Key",
+      "definition": "A piece of information used in conjunction with an algorithm to encrypt or decrypt a message."
+    },
+    "cryptography": {
+      "term": "Cryptography",
+      "definition": "The practice and study of techniques for secure communication in the presence of adversaries."
+    },
+    "cryptanalysis": {
+      "term": "Cryptanalysis",
+      "definition": "The study of methods for obtaining the meaning of encrypted information without access to the key."
+    },
+    "substitutionCipher": {
+      "term": "Substitution Cipher",
+      "definition": "A method of encryption where units of plaintext are replaced with ciphertext according to a fixed system."
+    },
+    "transpositionCipher": {
+      "term": "Transposition Cipher",
+      "definition": "A method of encryption where the positions of units of plaintext are shifted according to a regular system."
+    },
+    "caesarCipher": {
+      "term": "Caesar Cipher",
+      "definition": "A simple substitution cipher where each letter in the plaintext is shifted a certain number of places down the alphabet."
+    },
+    "vigenereCipher": {
+      "term": "Vigenère Cipher",
+      "definition": "A polyalphabetic substitution cipher that uses a keyword to shift letters in the plaintext."
+    },
+    "playfairCipher": {
+      "term": "Playfair Cipher",
+      "definition": "A manual symmetric encryption technique that uses a 5x5 grid of letters for encrypting pairs of letters."
+    },
+    "railFenceCipher": {
+      "term": "Szyfr Płotowy",
+      "definition": "Szyfr przestawieniowy, który zapisuje tekst jawny w zygzakowaty wzór na określonej liczbie 'szyn', a następnie odczytuje szyfrogram wiersz po wierszu."
+    },
+    "symmetricEncryption": {
+      "term": "Symmetric Encryption",
+      "definition": "A type of encryption where the same key is used for both encryption and decryption."
+    },
+    "asymmetricEncryption": {
+      "term": "Asymmetric Encryption",
+      "definition": "A type of encryption that uses two different keys: a public key for encryption and a private key for decryption."
+    },
+    "publicKey": {
+      "term": "Public Key",
+      "definition": "In asymmetric encryption, the key that can be freely shared and is used for encryption."
+    },
+    "privateKey": {
+      "term": "Private Key",
+      "definition": "In asymmetric encryption, the key that is kept secret and is used for decryption."
+    },
+    "algorithm": {
+      "term": "Algorithm",
+      "definition": "A step-by-step procedure for performing a specific task, such as encryption or decryption."
+    },
+    "cryptosystem": {
+      "term": "Cryptosystem",
+      "definition": "The complete set of algorithms, protocols, keys, and processes used for encryption and decryption."
+    },
+    "steganography": {
+      "term": "Steganography",
+      "definition": "The practice of concealing a message within another message or a physical object."
+    }
+  }
+}
